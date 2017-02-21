@@ -1,11 +1,31 @@
 #_Portfolio-Webpage_
 
-## This is a collection of my beginning project repositories for my first week at Epicodus. 2/10/17
+#### basic HTML/CSS exercise for Epicodus, 2/10/17
 
 ### By- Riley Watts
 
+## Description
+
+##### This page contains links to several of my initial projects at Epicodus. It also contains lots of information about the author of the page, Riley Watts.
+
+## Setup
+
+##### Clone this repository
+
+##### Navigate to the Portfolio-Webpage directory using finder or the terminal
+
+##### Open index.html
+
+## Technologies Used
+
+##### HTML, CSS, Bootstrap
+
+## Legal
+
+##### Copyright (c) 2017 Riley Watts
+
+##### This software is licensed under the MIT license.
+
+### Link below
+
 #### rifley.github.io/Portfolio-Webpage
-
-###### Licensing Info- Atom: Copyright (c) 2011-2017 GitHub Inc.
-
-###### Bootstrap: The MIT License (MIT) Copyright (c) 2011-2016 Twitter, Inc.
